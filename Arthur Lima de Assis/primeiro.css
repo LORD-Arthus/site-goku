@@ -48,7 +48,7 @@ p{
 .goku{
     width: 600px;
     height: 400px;
-    background-color: chartreuse;
+    background-color: rgb(68, 68, 68);
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
